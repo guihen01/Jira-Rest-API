@@ -29,3 +29,10 @@ the excutable code when lounched ask some questions for starting the correspondi
 reference to download the package is : 
 https://www.nuget.org/packages/Execute-Jira-RestAPi/
 
+# Sample
+See sample in https://github.com/guihen01/Jira-Rest-API/tree/main/Test-Create-Issue
+
+sample is the use of a "create issue" whith rest api : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/#api/2/issue-createIssue
+Creates an issue or a sub-task from a JSON representation.
+the issueType field must correspond to a sub-task issue type (you can use /issue/createmeta to discover sub-task issue types), and
+you must provide a parent field in the issue create request containing the id or key of the parent issue.
