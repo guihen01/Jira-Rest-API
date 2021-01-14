@@ -2,10 +2,11 @@
 coded in C#
 
 Development platform : Visual studio 2019
+https://github.com/guihen01/Jira-Rest-API/blob/main/Capture.PNG
 
-use Net .Core
+use Microsoft Net.Core 
 
-use Json package
+use Json package (newtonsoft.Json v12.0.3)
 
 # how to use
 allow to make a rest api request to jira server 
