@@ -18,7 +18,8 @@ the excutable code when lounched ask some questions for starting the correspondi
 # parameters 
 1) pathanme and name of the json file   
    could be :  C:\C#Rest-API\Execute-RestAPI-POST\Execute-Jira-RestAPi\create-issue.json
-   the json file could be the json file yu choose, but it must match the json format required in https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/
+   the json file could be the json file yu choose, 
+   but it must match the json format required in https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/
 2) URL of the jira server : that is the point on which to send the REst API httprequest :  
   ( ie : exemple : http://localhost:8080/rest/api/2/issue )
 3) auth : username and password of a granted account to jira server
