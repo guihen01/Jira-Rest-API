@@ -1,7 +1,8 @@
 # Jira-Rest-API
 coded in C#
 
-Development platform : Visual studio 2019
+Development platform : Visual studio 2019 
+
 https://github.com/guihen01/Jira-Rest-API/blob/main/Capture.PNG
 
 use Microsoft Net.Core 
