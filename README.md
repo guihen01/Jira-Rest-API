@@ -1,5 +1,8 @@
 # Jira-Rest-API
 coded in C#
+
+Development platform : Visual studio 2019
+use Net .Core
 use Json package
 
 # how to use
@@ -18,3 +21,4 @@ the excutable code when lounched ask some questions for starting the correspondi
 # it is distributed as nuget package 
 reference to download the package is : 
 https://www.nuget.org/packages/Execute-Jira-RestAPi/
+
