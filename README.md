@@ -1,4 +1,7 @@
 # Jira-Rest-API
+
+[![Execute-Jira-RestAPi on fuget.org](https://www.fuget.org/packages/Execute-Jira-RestAPi/badge.svg)](https://www.fuget.org/packages/Execute-Jira-RestAPi)
+
 coded in C#
 
 Development platform : Visual studio 2019 
