@@ -3,7 +3,11 @@
 [![Execute-Jira-RestAPi on fuget.org](https://www.fuget.org/packages/Execute-Jira-RestAPi/badge.svg)](https://www.fuget.org/packages/Execute-Jira-RestAPi)
 [![Build status](https://ci.appveyor.com/api/projects/status/hu142cfpup350p1s?svg=true)](https://ci.appveyor.com/project/guihen01/jira-rest-api)
 
-coded in C#
+. allow to make a post rest api request to a jira server
+. write result to console & and to a file located in the current directory
+. parameter to give is a json file , containing your post request
+
+. coded in C#
 
 Development platform : Visual studio 2019 
 
@@ -14,7 +18,7 @@ use Microsoft Net.Core
 use Json package (newtonsoft.Json v12.0.3)
 
 # How to use
-allow to make a rest api request to jira server 
+allow to make a post rest api request to jira server 
 it is based on rest api library of Atlassian 
 ref : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/
 the excutable code when lounched ask some questions for starting the corresponding rest API
