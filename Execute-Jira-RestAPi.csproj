@@ -2,18 +2,21 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
     <RootNamespace>Execute_Jira_RestAPi</RootNamespace>
     <Authors>Henri Guillot</Authors>
     <Company>Henri Guillot</Company>
-    <Description>exexute rest api from jira  (only Rest API from Jira Server platform REST API reference)
-https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/</Description>
+    <Description>allow to make a post rest api request to a jira server . write result to console &amp; and to files located in the current directory :  Response.txt  &amp; Response.json  (in your current directory). Parameters to give is a json file , containing your post request details.
+(only Rest API from Jira Server platform REST API reference : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/</Description>
     <RepositoryUrl>https://github.com/guihen01/Jira-Rest-API.git</RepositoryUrl>
-    <PackageTags>Jira Rest API</PackageTags>
+    <PackageTags>Json Jira post Rest API</PackageTags>
     <RepositoryType>nuget</RepositoryType>
     <PackageProjectUrl>https://www.nuget.org/packages/Execute-Jira-RestAPi/</PackageProjectUrl>
     <PackageIcon>Henri Guillot.png</PackageIcon>
-    <Version>1.1.0</Version>
+    <Version>2.0</Version>
+    <PackageReleaseNotes>rebuild for netcore5.0. 
+ class program is now public.  
+results are also stored in a file named Response.txt &amp; Response.json  (in your current directory)</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,6 +25,10 @@ https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/</Description>
 
   <ItemGroup>
     <None Include="..\..\..\Users\guihen01\Desktop\Henri Guillot.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="Doc\Henri Guillot.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
