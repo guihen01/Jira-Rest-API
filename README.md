@@ -1,6 +1,7 @@
 # Jira-Rest-API
 
 [![Execute-Jira-RestAPi on fuget.org](https://www.fuget.org/packages/Execute-Jira-RestAPi/badge.svg)](https://www.fuget.org/packages/Execute-Jira-RestAPi)
+[![Build status](https://ci.appveyor.com/api/projects/status/hu142cfpup350p1s?svg=true)](https://ci.appveyor.com/project/guihen01/jira-rest-api)
 
 coded in C#
 
