@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp5.0</TargetFramework>
     <RootNamespace>Execute_Jira_RestAPi</RootNamespace>
     <Authors>Henri Guillot</Authors>
@@ -13,10 +13,9 @@
     <RepositoryType>nuget</RepositoryType>
     <PackageProjectUrl>https://www.nuget.org/packages/Execute-Jira-RestAPi/</PackageProjectUrl>
     <PackageIcon>Henri Guillot.png</PackageIcon>
-    <Version>2.0</Version>
-    <PackageReleaseNotes>rebuild for netcore5.0. 
- class program is now public.  
-results are also stored in a file named Response.txt &amp; Response.json  (in your current directory)</PackageReleaseNotes>
+    <Version>3.0</Version>
+    <PackageReleaseNotes>rebuid as a library 
+name of method :JiraPostRequest()</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

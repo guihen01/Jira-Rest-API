@@ -11,7 +11,7 @@ namespace RestAPi
 {
     public class Program
     {
-        public static async System.Threading.Tasks.Task Main(string[] args)
+        public static async System.Threading.Tasks.Task JiraPostRequest()
         {
             Console.WriteLine("----------------------------------------------------------------------------");
             Console.WriteLine("Execute (Jira Server platform) POST REST API");
