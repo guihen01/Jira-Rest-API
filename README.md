@@ -39,6 +39,9 @@ https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20main%20prog.PN
 https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture3.PNG
 ![alt text](https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture3.PNG "Logo Title Text 1")
 
+https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20object%20browser.PNG
+![alt text](https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20object%20browser.PNG "Logo Title Text 1")
+
 # Parameters 
 1) pathanme and name of the json file   
    could be :  C:\C#Rest-API\Execute-RestAPI-POST\Execute-Jira-RestAPi\create-issue.json
