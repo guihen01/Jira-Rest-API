@@ -24,8 +24,11 @@ ref : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/
 the excutable code when lounched ask some questions for starting the corresponding rest API
 
 . USe Visual Studio or tool that use Nuget
+
 . in your c# code use the method JiraPostRequest();
+
 . include the reference : using RestAPi;
+
 . for the Main use : static async System.Threading.Tasks.Task Main(string[] args)
 
 
