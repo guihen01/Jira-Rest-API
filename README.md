@@ -35,6 +35,7 @@ https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20main%20prog.PN
 ![alt text](https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20main%20prog.PNG "Logo Title Text 1")
 
 . use the syntax : await RestAPi.Program.JiraPostRequest();  method JiraPostRequest() is packed and assembled in the dll ...: and included in the Program class
+
 https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture3.PNG
 ![alt text](https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture3.PNG "Logo Title Text 1")
 
