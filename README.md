@@ -26,7 +26,8 @@ the excutable code when lounched ask some questions for starting the correspondi
 # Parameters 
 1) pathanme and name of the json file   
    could be :  C:\C#Rest-API\Execute-RestAPI-POST\Execute-Jira-RestAPi\create-issue.json
-   in test we uses teh file : Create-issue : https://github.com/guihen01/Jira-Rest-API/blob/main/Test-Create-Issue/Create-issue.json
+   
+   in test we use the file : Create-issue : https://github.com/guihen01/Jira-Rest-API/blob/main/Test-Create-Issue/Create-issue.json
    
    the json file could be the json file yu choose, 
    but it must match the json format required in https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/
