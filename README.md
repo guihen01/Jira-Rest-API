@@ -25,6 +25,8 @@ the excutable code when lounched ask some questions for starting the correspondi
 
 . USe Visual Studio or tool that use Nuget
 
+. In Visual Studio, download the package  https://www.nuget.org/packages/Execute-Jira-RestAPi/
+
 . in your c# code use the method JiraPostRequest();
 
 . include the reference : using RestAPi;
