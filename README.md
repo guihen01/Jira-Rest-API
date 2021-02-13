@@ -32,7 +32,7 @@ the excutable code when lounched ask some questions for starting the correspondi
 . for the Main use : static async System.Threading.Tasks.Task Main(string[] args)
 
 https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20main%20prog.PNG
-
+![alt text](https://github.com/guihen01/Jira-Rest-API/blob/main/Doc/Capture%20main%20prog.PNG "Logo Title Text 1")
 
 # Parameters 
 1) pathanme and name of the json file   
