@@ -3,7 +3,7 @@
 [![Execute-Jira-RestAPi on fuget.org](https://www.fuget.org/packages/Execute-Jira-RestAPi/badge.svg)](https://www.fuget.org/packages/Execute-Jira-RestAPi)
 [![Build status](https://ci.appveyor.com/api/projects/status/hu142cfpup350p1s?svg=true)](https://ci.appveyor.com/project/guihen01/jira-rest-api)
 
-. This method allows to make a post rest api request to a jira server
+. This method allows to make a post rest api request to a jira server to get or post with JIRA issues (works only with : /rest/api/2/issue)   
 . write results to console & and to files located in the current directory
 . parameter to give is a json file , containing your post request
 
